@@ -15,10 +15,6 @@ I come to product work from architecture and human-computer interaction, and I p
 Designed an AI assistant that lives inside Gmail and Outlook, from the first concept through a full component system.
 [Read the case study →](https://jonzinercohen.com/lindy)
 
-### Air Canada: Design System & Booking Redesign
-Modernized the design system and redesigned the flight booking experience.
-[Read the case study →](https://jonzinercohen.com/air-canada)
-
 ### Lotus: Medical AI Product Sprint
 Worked with Mount Sinai Hospital on the design and development of a medical AI product.
 [Read the case study →](https://jonzinercohen.com/lotus)
