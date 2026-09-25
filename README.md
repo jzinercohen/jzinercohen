@@ -34,12 +34,12 @@ Modernized the design system and ran usability research on dashboard features.
 - **UX design & strategy**: product design, service design, information architecture
 - **UX research**: usability testing, user interviews, journey mapping
 - **Design systems**: component libraries and interface design at scale
-- **Building**: shipping my own sites and prototypes in Framer, HTML/CSS/JS and TypeScript, with AI tools like Claude and ChatGPT
+- **Building**: shipping my own sites and prototypes in Framer, HTML/CSS/JS and TypeScript, with AI tools like Claude and ChatGPT (vibing)
 - **Product leadership**: cross-functional collaboration, product management, UX leadership
 
 ## Tools
 
-Figma · Framer · Notion · Miro · Adobe Creative Suite · Claude · ChatGPT
+Figma · Framer · Notion · Miro · Adobe Creative Suite · Claude · ChatGPT · pencil + paper · + so much more
 
 ## On GitHub
 
