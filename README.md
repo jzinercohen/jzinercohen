@@ -40,7 +40,7 @@ Figma · Framer · Notion · Miro · Adobe Creative Suite · Claude · ChatGPT �
 ## On GitHub
 
 - [**UQ**](https://github.com/jzinercohen/UQ): the marketing website for UrbanQuest Inc., hand-built static HTML/CSS/JS with no framework
-- Private: My claude secrets/skills/"brain"
+- Private: My claude secrets/skills/"brain" + projects being built
 ---
 
 <sub>Jon Ziner-Cohen · Product Designer · Toronto · [jonzinercohen.com](https://jonzinercohen.com)</sub>
