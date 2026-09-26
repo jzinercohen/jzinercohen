@@ -1,4 +1,4 @@
-# Hi, I'm Jon Ziner-Cohen 👋
+# Hi, I'm Jon Ziner-Cohen 🤙
 
 **Product Designer + Builder based in Toronto.** I create thoughtful, well-informed and intentional design experiences.
 
