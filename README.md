@@ -5,6 +5,7 @@
 I come to product work from architecture and human-computer interaction, and I practice **strategy-led design**: research-grounded solutions that reduce friction and create clarity. Most of my work is in **fintech, med-tech, and AI**.
 
 🌐 **Portfolio:** [jonzinercohen.com](https://jonzinercohen.com)  
+🌐 **LinkedIn:** (https://www.linkedin.com/in/jon-jaeden/)  
 📫 **Email:** [jzinercohen@gmail.com](mailto:jzinercohen@gmail.com)
 
 ---
