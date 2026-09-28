@@ -10,22 +10,6 @@ I come to product work from architecture and human-computer interaction, and I p
 
 ---
 
-## Selected work
-
-### Lindy: AI Chrome Extension
-Designed an AI assistant that lives inside Gmail and Outlook, from the first concept through a full component system.
-[Read the case study →](https://jonzinercohen.com/lindy)
-
-### Lotus: Medical AI Product Sprint
-Worked with Mount Sinai Hospital on the design and development of a medical AI product.
-[Read the case study →](https://jonzinercohen.com/lotus)
-
-### Tipalti: B2B Fintech Platform
-Modernized the design system and ran usability research on dashboard features.
-[Read the case study →](https://jonzinercohen.com/fintech)
-
----
-
 ## What I do
 
 - **UX design & strategy**: product design, service design, information architecture
